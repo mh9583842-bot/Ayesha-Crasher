@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/y8v3djZd/Untitled-Project.jpg">
 </p>
 
-<h1 align="center">💀 X-Crasher WhatsApp Bot 💀</h1>
+<h1 align="center">💀 Ayesha-Crasher WhatsApp Bot 💀</h1>
 
 <p align="center">
 ⚡ Advanced • Dangerous • Experimental WhatsApp Bot ⚡
@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+X-Crasher+WhatsApp+Bot;Dangerous+Testing+Tool;Powerful+Automation+System;Developed+by+DanuZz">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+Ayesha-Crasher+WhatsApp+Bot;Dangerous+Testing+Tool;Powerful+Automation+System;Developed+by+Ayesha">
 </p>
 
 ---
 
 # ⚠️ WARNING
 
-> **X-Crasher is a dangerous testing tool.**
+> **Ayesha-Crasher is a dangerous testing tool.**
 
 This project contains **high-risk WhatsApp payload systems** that can affect WhatsApp clients.
 
@@ -36,9 +36,9 @@ This project contains **high-risk WhatsApp payload systems** that can affect Wha
 
 ---
 
-# 🧠 About X-Crasher
+# 🧠 About Ayesha-Crasher
 
-**X-Crasher** is a powerful WhatsApp automation bot built using **Baileys API**.
+**Ayesha-Crasher** is a powerful WhatsApp automation bot built using **Baileys API**.
 
 It provides advanced tools for:
 
@@ -56,7 +56,7 @@ It provides advanced tools for:
 
 # ☠️ Dangerous Capability
 
-X-Crasher contains **experimental crash testing functions**.
+Ayesha-Crasher contains **experimental crash testing functions**.
 
 💥 Some features can **crash WhatsApp clients within seconds**.
 
@@ -114,8 +114,8 @@ Edit your **config.js**
 
 ```javascript
 /*
-Script X-Crasher
-By DanuZz
+Script Ayesha-Crasher
+By Ayesha
 
 Site: https://www.movanest.xyz
 */
@@ -127,16 +127,16 @@ global.session_id = ""
 // If deploy with VPS or panel -> keep empty
 
 global.prefix = '.'
-global.owner = ["9476XXXXX"]
-global.bot = "9476XXXXX"
+global.owner = ["923147375840"]
+global.bot = "923147375840"
 
-global.namabot = "X-Crasher"
-global.namaown = "DanuZz"
+global.namabot = "Ayesha-Crasher"
+global.namaown = "Ayesha"
 
-global.workType = "public" 
+global.workType = "private" 
 // public | private | groups | inbox
 
-global.anticall = true
+global.anticall = false
 ```
 
 ---
@@ -174,13 +174,13 @@ The bot will show **QR code or Pair code in terminal**.
 Clone repository
 
 ```
-git clone https://github.com/dnuzi/X-Crasher-Wa
+git clone https://github.com/dnuzi/Ayesha-Crasher
 ```
 
 Enter folder
 
 ```
-cd X-Crasher-Wa
+cd Ayesha-Crasher
 ```
 
 Install modules
@@ -199,9 +199,9 @@ npm start
 
 # 👨‍💻 Developer
 
-### 🧑‍💻 DanuZz
+### 🧑‍💻 Ayesha
 
-Creator of **X-Crasher**
+Creator of **Ayesha-Crasher**
 
 🌐 Website  
 https://www.movanest.xyz
